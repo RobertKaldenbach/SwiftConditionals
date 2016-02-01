@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96B524BB5A9735FF5357ECE1FAF0DE4AA74CE1ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "96B524BB5A9735FF5357ECE1FAF0DE4AA74CE1ED" : 0,
+    "A0AE354BB5D35A71D5CC1145E4EBA291CC951300" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "666F0FA3-E3C2-4C34-81EA-9CA931E48663",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "96B524BB5A9735FF5357ECE1FAF0DE4AA74CE1ED" : "Conditionals%20and%20Variables\/",
+    "A0AE354BB5D35A71D5CC1145E4EBA291CC951300" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "uptown-function-you-up",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "uptown-function-you-up.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:xPopTartsx\/SwiftConditionals.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96B524BB5A9735FF5357ECE1FAF0DE4AA74CE1ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:xPopTartsx\/Project2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0AE354BB5D35A71D5CC1145E4EBA291CC951300"
+    }
+  ]
+}
