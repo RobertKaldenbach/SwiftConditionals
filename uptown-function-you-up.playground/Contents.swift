@@ -5,7 +5,7 @@ import UIKit
 var bankAcount = 500.50
 var itemAmount = 212.23
 
-func attemptPurchase(amount:Double)-> Bool{
+func canPurchase(amount:Double)-> Bool{
     if bankAcount >= itemAmount{
         bankAcount -= itemAmount
         return true
@@ -14,4 +14,17 @@ func attemptPurchase(amount:Double)-> Bool{
     }
 }
 
-attemptPurchase(itemAmount)
+
+
+func processPurchase(amt: Double){
+    bankAcount -= amt
+    print("You made a purchase of the amoutn \(amt)")
+}
+
+if canPurchase(itemAmount){
+    processPurchase(itemAmount)
+} else {
+    print("Insufficent Funds")
+}
+
+
